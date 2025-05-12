@@ -1,5 +1,5 @@
 <?php
-//Teste de commit Guit
+//Teste de commit Guit 23:52
 require_once "average.php";
 require_once "approval.php";
 
